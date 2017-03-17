@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{05305C5F-3670-416D-815C-DEE99C20BF9F}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Cats/Models/Repository.cs" Line="30" Column="4" />
+      <File FileName="Cats/Services/AzureService.cs" Line="5" Column="19" />
+      <File FileName="iOS/AppDelegate.cs" Line="17" Column="14" />
+      <File FileName="../../../../Library/Frameworks/Xamarin.iOS.framework/Versions/10.4.0.128/lib/msbuild/iOS/Xamarin.iOS.Common.targets" Line="205" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Cats.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.ItemProperties.Cats.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.751a016346709aa49dcb75ab6a818c37d4d9c045" />
+  <MultiItemStartupConfigurations />
+</Properties>
